@@ -1,0 +1,20 @@
+{
+  "name": "reload",
+  "version": "1.0.0",
+  "description": "sample reload project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "reload",
+    "docker",
+    "k8s"
+  ],
+  "author": "pplavetzki",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.6"
+  }
+}

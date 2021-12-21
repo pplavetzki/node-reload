@@ -1,0 +1,9 @@
+{ "config": 
+    {
+        "logLevel": "info",
+        "overrides": {
+            "logLevel": "debug",
+            "user": "paul"
+        }
+    }
+}
